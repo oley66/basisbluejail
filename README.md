@@ -1,0 +1,3 @@
+This is not the offical website or information of BASIS Blue Jail Web.
+This web is only for developer.. This Github did not upload offical web data/HTML Data of www.basisbluejail.net
+Please visit www.basisbluejail.net for normal users....
